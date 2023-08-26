@@ -120,7 +120,7 @@ body, html {
 }
 
 .logo-container::before {
-    content: url(/icons/logo.svg);
+    content: url(icons/logo.svg);
     display: inline-block;
     padding-right: 10px;
     width: 50px;
@@ -154,27 +154,27 @@ body, html {
 }
 
 .menu-wrapper .item-1::before {
-    content: url(/icons/home.svg)
+    content: url(icons/home.svg)
 }
 
 .menu-wrapper .item-2::before {
-    content: url(/icons/profile.svg)
+    content: url(icons/profile.svg)
 }
 
 .menu-wrapper .item-3::before {
-    content: url(/icons/messages.svg)
+    content: url(icons/messages.svg)
 }
 
 .menu-wrapper .item-4::before {
-    content: url(/icons/history.svg)
+    content: url(icons/history.svg)
 }
 
 .menu-wrapper .item-5::before {
-    content: url(/icons/tasks.svg)
+    content: url(icons/tasks.svg)
 }
 
 .menu-wrapper .item-6::before {
-    content: url(/icons/communities.svg)
+    content: url(icons/communities.svg)
 }
 
 .menu-wrapper .main-menu {
@@ -183,15 +183,15 @@ body, html {
 }
 
 .menu-wrapper .item-7::before {
-    content: url(/icons/settings.svg)
+    content: url(icons/settings.svg)
 }
 
 .menu-wrapper .item-8::before {
-    content: url(/icons/support.svg)
+    content: url(icons/support.svg)
 }
 
 .menu-wrapper .item-9::before {
-    content: url(/icons/privacy.svg)
+    content: url(icons/privacy.svg)
 }
 
 
@@ -229,7 +229,7 @@ body, html {
     margin-right: 10px;
     margin-left: 10px;
     margin-top: 2px;
-    background-image: url(/icons/search.svg);
+    background-image: url(icons/search.svg);
     background-color: rgba(0,0,0,0);
     border: none;
     background-repeat: no-repeat;
@@ -270,7 +270,7 @@ body, html {
     align-items: center;
     width: 40px;
     height: 40px;
-    background-image: url(/icons/notifications.svg);
+    background-image: url(icons/notifications.svg);
     background-size: 70%;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -509,15 +509,15 @@ body, html {
 }
 
 .dashboard-wrapper .section1 .projects .project-wrapper .body .reaction-buttons .favorite-button {
-    background-image: url(/icons/favorite.svg);
+    background-image: url(icons/favorite.svg);
 }
 
 .dashboard-wrapper .section1 .projects .project-wrapper .body .reaction-buttons .watch-button {
-    background-image: url(/icons/watch.svg);
+    background-image: url(icons/watch.svg);
 }
 
 .dashboard-wrapper .section1 .projects .project-wrapper .body .reaction-buttons .share-button {
-    background-image: url(/icons/share.svg);
+    background-image: url(icons/share.svg);
 }
 
 
@@ -664,19 +664,19 @@ body, html {
 } 
 
 .dashboard-wrapper .trenders .padder-wrap .a1 .pfp {
-    background-image: url(/trenders/1.jpeg);
+    background-image: url(trenders/1.jpeg);
 }
 
 .dashboard-wrapper .trenders .padder-wrap .a2 .pfp {
-    background-image: url(/trenders/2.jpeg);
+    background-image: url(trenders/2.jpeg);
 }
 
 .dashboard-wrapper .trenders .padder-wrap .a3 .pfp {
-    background-image: url(/trenders/3.jpeg);
+    background-image: url(trenders/3.jpeg);
 }
 
 .dashboard-wrapper .trenders .padder-wrap .a4 .pfp {
-    background-image: url(/trenders/4.jpeg);
+    background-image: url(trenders/4.jpeg);
 }
 
 
@@ -766,19 +766,19 @@ body, html {
     }
 
     .nav-wrapper .nav-grid .create-content .create-button.new {
-        background-image: url(/icons/new.svg);
+        background-image: url(icons/new.svg);
     }
 
     .nav-wrapper .nav-grid .create-content .create-button.upload {
-        background-image: url(/icons/upload.svg);
+        background-image: url(icons/upload.svg);
     }
 
     .nav-wrapper .nav-grid .create-content .create-button.share {
-        background-image: url(/icons/share-2.svg);
+        background-image: url(icons/share-2.svg);
     }
 
     .nav-wrapper .nav-grid .create-content .create-button.search {
-        background-image: url(/icons/search.svg);
+        background-image: url(icons/search.svg);
         margin-right: 40px;
     }
 
@@ -827,7 +827,7 @@ body, html {
     .nav-wrapper .nav-grid .create-content .create-button.new {
         display: block;
         margin-right: 30px;
-        background-image: url(/icons/menu.svg);
+        background-image: url(icons/menu.svg);
     }
 }
 
